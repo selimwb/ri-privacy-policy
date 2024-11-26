@@ -17,6 +17,7 @@ Gizlilik Politikası
 
 6. Gizlilik Politikası Değişiklikleri
    Bu gizlilik politikası zaman zaman güncellenebilir. Politika güncellemeleri, kullanıcılarımız için erişilebilir olacaktır ve uygulama mağazasında da belirtilecektir.
-7. İletişim
+
+8. İletişim
    Bu gizlilik politikasıyla ilgili herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
    E-posta: iletisim.wb@gmail.com
